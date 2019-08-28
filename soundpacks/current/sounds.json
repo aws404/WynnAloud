@@ -1,7 +1,7 @@
 {
   "test": {
-    "subtitle": "Test Sound",
+		"subtitle": "Test Sound",
     "sounds": ["wynnaloud:test/ex"],
-	"trigger": "hello"
+		"trigger": "hello"
   }
 }
